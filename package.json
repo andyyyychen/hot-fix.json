@@ -1,13 +1,13 @@
 {
-  "name": "hot-fix",
+  "name": "hot-fix.json",
   "version": "0.1.0",
   "description": "Hot fix module for online javascript bugs",
   "author": "andychen",
   "email": "chenyangpoppin@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenyangpoppin/hot-fix.git"
+    "url": "git+https://github.com/chenyangpoppin/hot-fix.json.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/chenyangpoppin/hot-fix"
+  "homepage": "https://github.com/chenyangpoppin/hot-fix.json"
 }
